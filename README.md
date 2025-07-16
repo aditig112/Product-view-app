@@ -6,7 +6,7 @@ A mobile shopping app built with **React Native (Expo)** that displays products 
 
 ## 📹 Demo
 
-> 📺 Watch it in action:  
+> 📺 Watch it in action:  https://drive.google.com/file/d/1Ol1tbAt7gXxawApF2r6UxSVB4OD7MwWH/view
 
 *(Replace with your YouTube link)*
 
